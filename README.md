@@ -1,4 +1,4 @@
-# 📦 E-Commerce Shipping Analysis Dashboard  
+# 📦 E-Commerce Shipping Analysis 
 
 ## 📊 Project Overview
 An interactive data analysis project that evaluates **e-commerce shipping performance** across major Indian cities. 
